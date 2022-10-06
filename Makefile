@@ -2,4 +2,4 @@ setup:
 	npm i
 
 start:
-	webpack-dev-server
+	npx webpack-dev-server
